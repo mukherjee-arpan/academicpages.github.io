@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Arpan Mukherjee"
 title_separator          : "-"
-name                     : &name "Arpan"
-description              : &description "First Year PhD Candidate at Rensselaer Polytechnic Institute, NY"
+name                     : &name "Arpan Mukherjee"
+description              : &description "First Year PhD Candidate at Rensselaer Polytechnic Institute, Troy, NY"
 url                      : https://mukherjee-arpan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mukherjee-arpan/mukherjee-arpan.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Arpan Mukherjee"
+  avatar           : "profile.png"
+  bio              : "First Year PhD Candidate at Rensselaer Polytechnic Institute, working in the Iformation Sciences Group, advised by Prof. Ali Tajer"
+  location         : "Troy, NY"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "mukhea5@rpi.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mukherjee-arpan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/arpan-mukherjee-75b287b6"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
