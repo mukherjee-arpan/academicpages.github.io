@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arpan Mukherjee"
-  avatar           : "profile.png"
+  name             : 
+  avatar           : "me.jpg"
   bio              : "First Year PhD Candidate at Rensselaer Polytechnic Institute, working in the Iformation Sciences Group, advised by Prof. Ali Tajer"
   location         : "Troy, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            : "mukhea5@rpi.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/arpan-mukherjee-75b287b6"
+  linkedin         : "arpan-mukherjee-75b287b6"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
