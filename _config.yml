@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arpan Mukherjee"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Arpan Mukherjee"
 description              : &description "First Year PhD Candidate at Rensselaer Polytechnic Institute, Troy, NY"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Arpan Mukherjee"
   avatar           : "profile.png"
   bio              : 
   location         : "Troy, NY"
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
@@ -227,23 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  
 
 # Sass/SCSS
 sass:
