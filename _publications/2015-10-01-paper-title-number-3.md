@@ -1,2 +1,2 @@
 ---
-Controlled Sensing for Sequential Estimation over Networks _(In Preparation)
+Controlled Sensing for Sequential Estimation over Networks <i>(In Preparation)</i>
